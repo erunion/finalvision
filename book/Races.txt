@@ -1,0 +1,19 @@
+﻿This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+RACES 
+
+RACE AND LANGUAGES 
+All characters know how to speak Common. 
+Literacy: Any character can read and write all the languages he or she speaks. 
+
+SMALL CHARACTERS 
+A Small character gets a +1 size bonus to Armor Class, a +1 size bonus on attack rolls, and a +4 size bonus on Hide checks. A Small character’s carrying capacity is three-quarters of that of a Medium character. 
+A Small character generally moves about two-thirds as fast as a Medium character. 
+A Small character must use smaller weapons than a Medium character. 
+
+HUMANS 
+• Medium: As Medium creatures, humans have no special bonuses or penalties due to their size. 
+• Human base land speed is 30 feet. 
+• 1 extra feat at 1st level. 
+• 4 extra skill points at 1st level and 1 extra skill point at each additional level. 
+• Automatic Language: Common. Bonus Languages: Any (other than secret languages, such as Druidic). See the Speak Language skill. 
+• Favored Class: Any.

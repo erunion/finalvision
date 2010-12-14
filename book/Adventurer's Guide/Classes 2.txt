@@ -1,0 +1,348 @@
+﻿This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+
+CLASSES II 
+
+KNIGHT (Paladin) 
+Alignment: Any good. 
+Hit Die: d10. 
+
+Class Skills 
+The knight's class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Diplomacy (Cha), Handle Animal (Cha), Heal (Wis), Knowledge (nobility and royalty) (Int), Knowledge (religion) (Int), Profession (Wis), Ride (Dex), and Sense Motive (Wis). 
+Skill Points at 1st Level: (2 + Int modifier) x4. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+
+Table: The Knight 
+Spells per Day 
+Level Base Attack Bonus Fort Save Ref Save Will Save Special 1st 2nd 3rd 4th 
+1st +1 +2 +0 +0 Aura of good, smite evil 1/day 
+2nd +2 +3 +0 +0 Divine grace, lay on hands 
+3rd +3 +3 +1 +1 Aura of courage, divine health 
+4th +4 +4 +1 +1 Sunder 0 
+5th +5 +4 +1 +1 Smite evil 2/day 0 
+6th +6/+1 +5 +2 +2 Remove disease 1/week 1 
+7th +7/+2 +5 +2 +2 1 
+8th +8/+3 +6 +2 +2 1 0 
+9th +9/+4 +6 +3 +3 Remove disease 2/week 1 0 
+10th +10/+5 +7 +3 +3 Smite evil 3/day 1 1 
+11th +11/+6/+1 +7 +3 +3 1 1 0 
+12th +12/+7/+2 +8 +4 +4 Remove disease 3/week 1 1 1 
+13th +13/+8/+3 +8 +4 +4 1 1 1 
+14th +14/+9/+4 +9 +4 +4 2 1 1 0 
+15th +15/+10/+5 +9 +5 +5 Remove disease 4/week, smite evil 4/day 2 1 1 1 
+16th +16/+11/+6/+1 +10 +5 +5 2 2 1 1 
+17th +17/+12/+7/+2 +10 +5 +5 2 2 2 1 
+18th +18/+13/+8/+3 +11 +6 +6 Remove disease 5/week 3 2 2 1 
+19th +19/+14/+9/+4 +11 +6 +6 3 3 3 2 
+20th +20/+15/+10/+5 +12 +6 +6 Smite evil 5/day 3 3 3 3 
+Class Features 
+All of the following are class features of the knight. 
+Weapon and Armor Proficiency: Knights are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (including tower shields). 
+Aura of Good (Ex): The power of a knight's aura of good (see the detect good spell) is equal to his knight level. 
+Smite Evil (Su): Once per day, a knight may attempt to smite evil with one normal melee attack. He adds his Charisma bonus (if any) to her attack roll and deals 1 extra point of damage per knight level. If the knight accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day. 
+At 5th level, and at every five levels thereafter, the knight may smite evil one additional time per day, as indicated on Table: The Knight, to a maximum of five times per day at 20th level. 
+Divine Grace (Su): At 2nd level, a knight gains a bonus equal to his Charisma bonus (if any) on all saving throws. 
+Lay on Hands (Su): Beginning at 2nd level, a knight with a Charisma score of 12 or higher can heal wounds (his own or those of others) by touch. Each day he can heal a total number of hit points of damage equal to his knight level x his Charisma bonus. A knight may choose to divide his healing among multiple recipients, and he doesn’t have to use it all at once. Using lay on hands is a standard action. 
+Alternatively, a knight can use any or all of this healing power to deal damage to undead creatures. Using lay on hands in this way requires a successful melee touch attack and doesn’t provoke an attack of opportunity. The knight decides how many of his daily allotment of points to use as damage after successfully touching an undead creature. 
+Aura of Courage (Su): Beginning at 3rd level, a knight is immune to fear (magical or otherwise). Each ally within 10 feet of him gains a +4 morale bonus on saving throws against fear effects. 
+This ability functions while the knight is conscious, but not if he is unconscious or dead. 
+Divine Health (Ex): At 3rd level, a knight gains immunity to all diseases, including supernatural and magical diseases. 
+Spells: Beginning at 4th level, a knight gains the ability to cast a small number of white magic spells, which are drawn from the priest spell list. A knight must choose and prepare his spells in advance. 
+To prepare or cast a spell, a knight must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a knight's spell is 10 + the spell level + the knight's Wisdom modifier. 
+Like other spellcasters, a knight can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Knight. In addition, he receives bonus spells per day if he has a high Wisdom score. When Table: The Knight indicates that the knight gets 0 spells per day of a given spell level, he gains only the bonus spells he would be entitled to based on his Wisdom score for that spell level. 
+A knight prepares and casts spells the way a priest does, though he cannot lose a prepared spell to spontaneously cast a cure spell in its place. A knight may prepare and cast any spell on the priest spell list, provided that he can cast spells of that level, but he must choose which spells to prepare during his daily meditation. 
+Through 3rd level, a knight has no caster level. At 4th level and higher, his caster level is one-half his knight level. 
+Sunder (Ex): At 4th level the knight is treated as having the Improved Sunder feat, even when he does not have the normal prerequisites. The knight need not select this feat. Additionally the knight is able to sunder worn armor. 
+Remove Disease (Sp): At 6th level, a knight can produce a remove disease effect, as the spell, once per week. He can use this ability one additional time per week for every three levels after 6th (twice per week at 9th, three times at 12th, and so forth). 
+Code of Conduct: A knight must be of any good alignment and loses all class abilities if she ever willingly commits an evil act. 
+Associates: While he may adventure with characters of any good or neutral alignment, a knight will never knowingly associate with evil characters, nor will he continue an association with someone who consistently offends her moral code. A knight may accept only henchmen, followers, or cohorts who are good. 
+
+Dark Knights 
+A knight who ceases to be good, who willfully commits an evil act, or who grossly violates the code of conduct becomes a dark knight. He may continue to gain levels in knight, but faces certain restrictions. 
+Aura of Good (Ex): Is replaced with the Aura of Evil (Ex): The power of a dark knight's aura of evil (see the detect good spell) is equal to his dark knight level. 
+Smite Evil (Su): The dark knight can no longer smite evil. 
+Divine Grace (Su): The dark knight no longer gains the benefits of divine grace. 
+Lay on Hands (Su): A dark knight can no longer lay on hands. 
+Aura of Courage (Su): Is replaced with the Aura of Fear (Su): Beginning at 3rd level, a dark knight is immune to fear (magical or otherwise). Each enemy within 10 feet of him gains a -4 morale penalty on saving throws against fear effects. 
+This ability functions while the knight is conscious, but not if he is unconscious or dead. 
+Divine Health (Ex): The dark knight no longer gains the benefits of divine health. 
+Spells: The dark knight is able to cast spells in the same manner as before with the following changes. The dark knight can only cast a small number of black magic spells, which are drawn from the wizard spell list. 
+To prepare or cast a spell, a dark knight must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a dark knight's spell is 10 + the spell level + the dark knight's Intelligence modifier. 
+Like other spellcasters, a dark knight can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Knight. In addition, he receives bonus spells per day if he has a high Intelligence score. When Table: The Knight indicates that the dark knight gets 0 spells per day of a given spell level, he gains only the bonus spells he would be entitled to based on his Intelligence score for that spell level. 
+Sunder (Ex): The dark knight is able to perform the sunder as normal. 
+Remove Disease (Sp): The dark knight no longer gains the benefits of remove disease. 
+
+NINJA (Ranger) 
+Alignment: Any nonlawful. 
+Hit Die: d8. 
+
+Class Skills 
+The ninja's class skills (and the key ability for each skill) are Climb (Str), Concentration (Con), Craft (Int), Handle Animal (Cha), Heal (Wis), Hide (Dex), Jump (Str), Knowledge (geography) (Int), Knowledge (nature) (Int), Listen (Wis), Move Silently (Dex), Profession (Wis), Ride (Dex), Search (Int), Spot (Wis), Survival (Wis), Swim (Str), and Use Rope (Dex). 
+Skill Points at 1st Level: (6 + Int modifier) x4. 
+Skill Points at Each Additional Level: 6 + Int modifier. 
+
+Table: The Ninja 
+Level Base Attack Bonus Fort Save Ref Save Will Save Special 
+1st +1 +2 +2 +0 1st favored enemy, Track 
+2nd +2 +3 +3 +0 Combat style 
+3rd +3 +3 +3 +1 Endurance 
+4th +4 +4 +4 +1 
+5th +5 +4 +4 +1 2nd favored enemy 
+6th +6/+1 +5 +5 +2 Improved combat style 
+7th +7/+2 +5 +5 +2 
+8th +8/+3 +6 +6 +2 Swift tracker 
+9th +9/+4 +6 +6 +3 Evasion 
+10th +10/+5 +7 +7 +3 3rd favored enemy 
+11th +11/+6/+1 +7 +7 +3 Combat style mastery 
+12th +12/+7/+2 +8 +8 +4 
+13th +13/+8/+3 +8 +8 +4 Camouflage 
+14th +14/+9/+4 +9 +9 +4 
+15th +15/+10/+5 +9 +9 +5 4th favored enemy 
+16th +16/+11/+6/+1 +10 +10 +5 
+17th +17/+12/+7/+2 +10 +10 +5 Hide in plain sight 
+18th +18/+13/+8/+3 +11 +11 +6 
+19th +19/+14/+9/+4 +11 +11 +6 
+20th +20/+15/+10/+5 +12 +12 +6 5th favored enemy 
+Class Features 
+All of the following are class features of the ninja. 
+Weapon and Armor Proficiency: A ninja is proficient with all simple and martial weapons, kitanas, and shruikens (he uses these as easily as an archer uses a bow), and with light armor. 
+Favored Enemy (Ex): At 1st level, a ninja may select a type of creature from among those given on Table: Ninja Favored Enemies. The ninja gains a +2 bonus on Bluff, Listen, Sense Motive, Spot, and Survival checks when using these skills against creatures of this type. Likewise, he gets a +2 bonus on weapon damage rolls against such creatures. 
+At 5th level and every five levels thereafter (10th, 15th, and 20th level), the ninja may select an additional favored enemy from those given on the table. In addition, at each such interval, the bonus against any one favored enemy (including the one just selected, if so desired) increases by 2. 
+If the ninja chooses humanoids or outsiders as a favored enemy, he must also choose an associated subtype, as indicated on the table. If a specific creature falls into more than one category of favored enemy, the ninja's bonuses do not stack; he simply uses whichever bonus is higher. 
+
+Table: Ninja Favored Enemies 
+Type (Subtype) Type (Subtype) 
+Aberration Humanoid (reptilian) 
+Animal Magical beast 
+Construct Monstrous humanoid 
+Dragon Ooze 
+Elemental Outsider (air) 
+Fey Outsider (chaotic) 
+Giant Outsider (earth) 
+Humanoid (aquatic) Outsider (evil) 
+Humanoid (dwarf) Outsider (fire) 
+Humanoid (elf) Outsider (good) 
+Humanoid (goblinoid) Outsider (lawful) 
+Humanoid (gnoll) Outsider (native) 
+Humanoid (gnome) Outsider (water) 
+Humanoid (halfling) Plant Humanoid (human) 
+Undead Humanoid (orc) 
+Vermin 
+Track: A ninja gains Track as a bonus feat. 
+Combat Style (Ex): At 2nd level, a ninja must select one of two combat styles to pursue: thrown weapon or two-weapon combat. This choice affects the character’s class features but does not restrict his selection of feats or special abilities in any way. 
+If the ninja selects thrown weapon, he is treated as having the Rapid Shot feat, even if he does not have the normal prerequisites for that feat. His shruikens are treated the same as a bow would be for the purpose of this feat. 
+If the ninja selects two-weapon combat, he is treated as having the Two-Weapon Fighting feat, even if he does not have the normal prerequisites for that feat. 
+The benefits of the ninja's chosen style apply only when he wears light or no armor. He loses all benefits of his combat style when wearing medium or heavy armor. 
+Endurance: A ninja gains Endurance as a bonus feat at 3rd level. 
+Improved Combat Style (Ex): At 6th level, a ninja's aptitude in his chosen combat style (thrown weapon or two-weapon combat) improves. If he selected thrown weapon at 2nd level, he is treated as having the Manyshot feat, even if he does not have the normal prerequisites for that feat. 
+If the ninja selected two-weapon combat at 2nd level, he is treated as having the Improved Two-Weapon Fighting feat, even if he does not have the normal prerequisites for that feat. 
+As before, the benefits of the ninja's chosen style apply only when he wears light or no armor. He loses all benefits of his combat style when wearing medium or heavy armor. 
+Swift Tracker (Ex): Beginning at 8th level, a ninja can move at his normal speed while following tracks without taking the normal -5 penalty. He takes only a -10 penalty (instead of the normal -20) when moving at up to twice normal speed while tracking. 
+Evasion (Ex): At 9th level, a ninja can avoid even magical and unusual attacks with great agility. If he makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, he instead takes no damage. Evasion can be used only if the ninja is wearing light armor or no armor. A helpless ninja does not gain the benefit of evasion. 
+Combat Style Mastery (Ex): At 11th level, a ninja's aptitude in his chosen combat style (thrown weapon or two-weapon combat) improves again. If he selected thrown weapon at 2nd level, he is treated as having the Improved Precise Shot feat, even if he does not have the normal prerequisites for that feat. 
+If the ninja selected two-weapon combat at 2nd level, he is treated as having the Greater Two-Weapon Fighting feat, even if he does not have the normal prerequisites for that feat. 
+As before, the benefits of the ninja's chosen style apply only when he wears light or no armor. He loses all benefits of his combat style when wearing medium or heavy armor. 
+Camouflage (Ex): A ninja of 13th level or higher can use the Hide skill in any sort of shadowy terrain, even if the terrain doesn’t grant cover or concealment. 
+Hide in Plain Sight (Ex): While in any sort of shadowy terrain, a ninja of 17th level or higher can use the Hide skill even while being observed. 
+
+THIEF (Rogue) 
+Alignment: Any nonlawful. 
+Hit Die: d6. 
+
+Class Skills 
+The thief's class skills (and the key ability for each skill) are Appraise (Int), Balance (Dex), Bluff (Cha), Climb (Str), Craft (Int), Decipher Script (Int), Diplomacy (Cha), Disable Device (Int), Disguise (Cha), Escape Artist (Dex), Forgery (Int), Gather Information (Cha), Hide (Dex), Intimidate (Cha), Jump (Str), Knowledge (local) (Int), Listen (Wis), Move Silently (Dex), Open Lock (Dex), Perform (Cha), Profession (Wis), Search (Int), Sense Motive (Wis), Sleight of Hand (Dex), Spot (Wis), Swim (Str), Tumble (Dex), Use Magic Device (Cha), and Use Rope (Dex). 
+Skill Points at 1st Level: (8 + Int modifier) x4. 
+Skill Points at Each Additional Level: 8 + Int modifier. 
+
+Table: The Thief 
+Level Base Attack Bonus Fort Save Ref Save Will Save Special 
+1st +0 +0 +2 +0 Sneak attack +1d6, trapfinding 
+2nd +1 +0 +3 +0 Evasion 
+3rd +2 +1 +3 +1 Sneak attack +2d6, trap sense +1 
+4th +3 +1 +4 +1 Uncanny dodge 
+5th +3 +1 +4 +1 Sneak attack +3d6 
+6th +4 +2 +5 +2 Trap sense +2 
+7th +5 +2 +5 +2 Sneak attack +4d6 
+8th +6/+1 +2 +6 +2 Improved uncanny dodge 
+9th +6/+1 +3 +6 +3 Sneak attack +5d6, trap sense +3 
+10th +7/+2 +3 +7 +3 Special ability 
+11th +8/+3 +3 +7 +3 Sneak attack +6d6 
+12th +9/+4 +4 +8 +4 Trap sense +4 
+13th +9/+4 +4 +8 +4 Sneak attack +7d6, special ability 
+14th +10/+5 +4 +9 +4 
+15th +11/+6/+1 +5 +9 +5 Sneak attack +8d6, trap sense +5 
+16th +12/+7/+2 +5 +10 +5 Special ability 
+17th +12/+7/+2 +5 +10 +5 Sneak attack +9d6 
+18th +13/+8/+3 +6 +11 +6 Trap sense +6 
+19th +14/+9/+4 +6 +11 +6 Sneak attack +10d6, special ability 
+20th +15/+10/+5 +6 +12 +6 
+Class Features 
+All of the following are class features of the thief. 
+Weapon and Armor Proficiency: Thieves are proficient with all simple weapons, plus the hand crossbow, rapier, sap, shortbow, and short sword. Thieves are proficient with light armor, but not with shields. 
+Sneak Attack: If a thief can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. 
+The thief's attack deals extra damage any time her target would be denied a Dexterity bonus to AC (whether the target actually has a Dexterity bonus or not), or when the thief flanks her target. This extra damage is 1d6 at 1st level, and it increases by 1d6 every two thief levels thereafter. Should the thief score a critical hit with a sneak attack, this extra damage is not multiplied. 
+Ranged attacks can count as sneak attacks only if the target is within 30 feet. 
+With a sap (blackjack) or an unarmed strike, a thief can make a sneak attack that deals nonlethal damage instead of lethal damage. She cannot use a weapon that deals lethal damage to deal nonlethal damage in a sneak attack, not even with the usual -4 penalty. 
+A thief can sneak attack only living creatures with discernible anatomies-undead, constructs, oozes, plants, and incorporeal creatures lack vital areas to attack. Any creature that is immune to critical hits is not vulnerable to sneak attacks. The thief must be able to see the target well enough to pick out a vital spot and must be able to reach such a spot. A thief cannot sneak attack while striking a creature with concealment or striking the limbs of a creature whose vitals are beyond reach. 
+Trapfinding: Thieves (and only thieves) can use the Search skill to locate traps when the task has a Difficulty Class higher than 20. 
+Finding a nonmagical trap has a DC of at least 20, or higher if it is well hidden. Finding a magic trap has a DC of 25 + the level of the spell used to create it. 
+Thieves (and only thieves) can use the Disable Device skill to disarm magic traps. A magic trap generally has a DC of 25 + the level of the spell used to create it. 
+A thief who beats a trap’s DC by 10 or more with a Disable Device check can study a trap, figure out how it works, and bypass it (with her party) without disarming it. 
+Evasion (Ex): At 2nd level and higher, a thief can avoid even magical and unusual attacks with great agility. If she makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, she instead takes no damage. Evasion can be used only if the thief is wearing light armor or no armor. A helpless thief does not gain the benefit of evasion. 
+Trap Sense (Ex): At 3rd level, a thief gains an intuitive sense that alerts her to danger from traps, giving her a +1 bonus on Reflex saves made to avoid traps and a +1 dodge bonus to AC against attacks made by traps. These bonuses rise to +2 when the thief reaches 6th level, to +3 when she reaches 9th level, to +4 when she reaches 12th level, to +5 at 15th, and to +6 at 18th level. 
+Trap sense bonuses gained from multiple classes stack. 
+Uncanny Dodge (Ex): Starting at 4th level, a thief can react to danger before her senses would normally allow her to do so. She retains her Dexterity bonus to AC (if any) even if she is caught flat-footed or struck by an invisible attacker. However, she still loses her Dexterity bonus to AC if immobilized. 
+If a thief already has uncanny dodge from a different class she automatically gains improved uncanny dodge (see below) instead. 
+Improved Uncanny Dodge (Ex): A thief of 8th level or higher can no longer be flanked. 
+This defense denies another thief the ability to sneak attack the character by flanking her, unless the attacker has at least four more thief levels than the target does. 
+If a character already has uncanny dodge (see above) from a second class, the character automatically gains improved uncanny dodge instead, and the levels from the classes that grant uncanny dodge stack to determine the minimum thief level required to flank the character. 
+Special Abilities: On attaining 10th level, and at every three levels thereafter (13th, 16th, and 19th), a thief gains a special ability of her choice from among the following options. 
+Crippling Strike (Ex): A thief with this ability can sneak attack opponents with such precision that her blows weaken and hamper them. An opponent damaged by one of her sneak attacks also takes 2 points of Strength damage. Ability points lost to damage return on their own at the rate of 1 point per day for each damaged ability. 
+Defensive Roll (Ex): The thief can roll with a potentially lethal blow to take less damage from it than she otherwise would. Once per day, when she would be reduced to 0 or fewer hit points by damage in combat (from a weapon or other blow, not a spell or special ability), the thief can attempt to roll with the damage. To use this ability, the thief must attempt a Reflex saving throw (DC = damage dealt). If the save succeeds, she takes only half damage from the blow; if it fails, she takes full damage. She must be aware of the attack and able to react to it in order to execute her defensive roll—if she is denied her Dexterity bonus to AC, she can’t use this ability. Since this effect would not normally allow a character to make a Reflex save for half damage, the thief's evasion ability does not apply to the defensive roll. 
+Improved Evasion (Ex): This ability works like evasion, except that while the thief still takes no damage on a successful Reflex saving throw against attacks henceforth she henceforth takes only half damage on a failed save. A helpless thief does not gain the benefit of improved evasion. 
+Opportunist (Ex): Once per round, the thief can make an attack of opportunity against an opponent who has just been struck for damage in melee by another character. This attack counts as the thief's attack of opportunity for that round. Even a thief with the Combat Reflexes feat can’t use the opportunist ability more than once per round. 
+Skill Mastery: The thief becomes so certain in the use of certain skills that she can use them reliably even under adverse conditions. 
+Upon gaining this ability, she selects a number of skills equal to 3 + her Intelligence modifier. When making a skill check with one of these skills, she may take 10 even if stress and distractions would normally prevent her from doing so. A thief may gain this special ability multiple times, selecting additional skills for it to apply to each time. 
+Slippery Mind (Ex): This ability represents the thief's ability to wriggle free from magical effects that would otherwise control or compel her. If a thief with slippery mind is affected by an enchantment spell or effect and fails her saving throw, she can attempt it again 1 round later at the same DC. She gets only this one extra chance to succeed on 
+her saving throw. 
+Feat: A thief may gain a bonus feat in place of a special ability. 
+
+ALCHEMIST (Sorcerer) 
+Alignment: Any. 
+Hit Die: d4. 
+
+Class Skills 
+The alchemist's class skills (and the key ability for each skill) are Bluff (Cha), Concentration (Con), Craft (Int), Knowledge (arcana) (Int), Profession (Wis), and Spellcraft (Int). 
+Skill Points at 1st Level: (2 + Int modifier) x 4. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+
+Table: The Alchemist 
+Spells per Day 
+Level Base Attack Bonus Fort Save Ref Save Will Save Special 0 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 
+1st +0 +0 +0 +2 Scribe Scroll 5 3 
+2nd +1 +0 +0 +3 6 4 
+3rd +1 +1 +1 +3 6 5 
+4th +2 +1 +1 +4 6 6 3 
+5th +2 +1 +1 +4 Bonus feat 6 6 4 
+6th +3 +2 +2 +5 6 6 5 3 
+7th +3 +2 +2 +5 6 6 6 4 
+8th +4 +2 +2 +6 6 6 6 5 3 
+9th +4 +3 +3 +6 6 6 6 6 4 
+10th +5 +3 +3 +7 Bonus feat 6 6 6 6 5 3 
+11th +5 +3 +3 +7 6 6 6 6 6 4 
+12th +6/+1 +4 +4 +8 6 6 6 6 6 5 3 
+13th +6/+1 +4 +4 +8 6 6 6 6 6 6 4 
+14th +7/+2 +4 +4 +9 6 6 6 6 6 6 5 3 
+15th +7/+2 +5 +5 +9 Bonus feat 6 6 6 6 6 6 6 4 
+16th +8/+3 +5 +5 +10 6 6 6 6 6 6 6 5 3 
+17th +8/+3 +5 +5 +10 6 6 6 6 6 6 6 6 4 
+18th +9/+4 +6 +6 +11 6 6 6 6 6 6 6 6 5 3 
+19th +9/+4 +6 +6 +11 6 6 6 6 6 6 6 6 6 4 
+20th +10/+5 +6 +6 +12 Bonus feat 6 6 6 6 6 6 6 6 6 6 
+Table: Alchemist Spells Known 
+Spells Known 
+Level 0 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 
+1st 4 2 
+2nd 5 2 
+3rd 5 3 
+4th 6 3 1 
+5th 6 4 2 
+6th 7 4 2 1 
+7th 7 5 3 2 
+8th 8 5 3 2 1 
+9th 8 5 4 3 2 
+10th 9 5 4 3 2 1 
+11th 9 5 5 4 3 2 
+12th 9 5 5 4 3 2 1 
+13th 9 5 5 4 4 3 2 
+14th 9 5 5 4 4 3 2 1 
+15th 9 5 5 4 4 4 3 2 
+16th 9 5 5 4 4 4 3 2 1 
+17th 9 5 5 4 4 4 3 3 2 
+18th 9 5 5 4 4 4 3 3 2 1 
+19th 9 5 5 4 4 4 3 3 3 2 
+20th 9 5 5 4 4 4 3 3 3 3 
+Class Features 
+All of the following are class features of the alchemist. 
+Weapon and Armor Proficiency: Alchemists are proficient with all simple weapons. They are not proficient with any type of armor or shield. Armor of any type interferes with an alchemist's gestures, which can cause his spells with somatic components to fail. 
+Spells: A alchemist casts black or white magic spells which are drawn from the wizard and priest spell lists. He can cast any spell he knows without preparing it ahead of time, the way a wizard or a priest must (see below). 
+To learn or cast a spell, an alchemist must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an alchemist's spell is 10 + the spell level + the alchemist's Charisma modifier. 
+Like other spellcasters, an alchemist can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Alchemist. In addition, he receives bonus spells per day if he has a high Charisma score. 
+An alchemist's selection of spells is extremely limited. An alchemist begins play knowing four 0-level spells and two 1st-level spells of your choice. At each new alchemist level, he gains one or more new spells, as indicated on Table: Alchemist Spells Known. (Unlike spells per day, the number of spells an alchemist knows is not affected by his Charisma score; the numbers on Table: Alchemist Spells Known are fixed.) These new spells can be common spells chosen from the wizard or priest spell lists, or they can be unusual spells that the alchemist has gained some understanding of by study. The alchemist can’t use this method of spell acquisition to learn spells at a faster rate, however. 
+Upon reaching 4th level, and at every even-numbered alchemist level after that (6th, 8th, and so on), an alchemist can choose to learn a new spell in place of one he already knows. In effect, the alchemist “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level alchemist spell the alchemist can cast. An alchemist may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that he gains new spells known for the level. 
+Unlike a wizard or a priest, an alchemist need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his spells per day for that spell level. He does not have to decide ahead of time which spells he’ll cast. 
+Scribe Scroll: At 1st level, a wizard gains Scribe Scroll as a bonus feat. 
+Bonus Feats: At 5th, 10th, 15th, and 20th level, an alchemist gains a bonus feat. At each such opportunity, she can choose an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums. 
+These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats. 
+
+WIZARD (Wizard) 
+Alignment: Any. 
+Hit Die: d4. 
+
+Class Skills 
+The wizard’s class skills (and the key ability for each skill) are Concentration (Con), Craft (Int), Decipher Script (Int), Knowledge (all skills, taken individually) (Int), Profession (Wis), and Spellcraft (Int). See Chapter 4: Skills for 
+skill descriptions. 
+Skill Points at 1st Level: (2 + Int modifier) x4. 
+Skill Points at Each Additional Level: 2 + Int modifier. 
+
+Table: The Wizard 
+Spells per Day 
+Level Base Attack Bonus Fort Save Ref Save Will Save Special 0 1st 2nd 3rd 4th 5th 6th 7th 8th 9th 
+1st +0 +0 +0 +2 Scribe Scroll 3 1 
+2nd +1 +0 +0 +3 4 2 
+3rd +1 +1 +1 +3 4 2 1 
+4th +2 +1 +1 +4 4 3 2 
+5th +2 +1 +1 +4 Bonus feat 4 3 2 1 
+6th +3 +2 +2 +5 4 3 3 2 
+7th +3 +2 +2 +5 4 4 3 2 1 
+8th +4 +2 +2 +6 4 4 3 3 2 
+9th +4 +3 +3 +6 4 4 4 3 2 1 
+10th +5 +3 +3 +7 Bonus feat 4 4 4 3 3 2 
+11th +5 +3 +3 +7 4 4 4 4 3 2 1 
+12th +6/+1 +4 +4 +8 4 4 4 4 3 3 2 
+13th +6/+1 +4 +4 +8 4 4 4 4 4 3 2 1 
+14th +7/+2 +4 +4 +9 4 4 4 4 4 3 3 2 
+15th +7/+2 +5 +5 +9 Bonus feat 4 4 4 4 4 4 3 2 1 
+16th +8/+3 +5 +5 +10 4 4 4 4 4 4 3 3 2 
+17th +8/+3 +5 +5 +10 4 4 4 4 4 4 4 3 2 1 
+18th +9/+4 +6 +6 +11 4 4 4 4 4 4 4 3 3 2 
+19th +9/+4 +6 +6 +11 4 4 4 4 4 4 4 4 3 3 
+20th +10/+5 +6 +6 +12 Bonus feat 4 4 4 4 4 4 4 4 4 4 
+Class Features 
+All of the following are class features of the wizard. 
+Weapon and Armor Proficiency: Wizards are proficient with the club, dagger, heavy crossbow, light crossbow, and quarterstaff, but not with any type of armor or shield. Armor of any type interferes with a wizard’s movements, which can cause her spells with somatic components to fail. 
+Spells: A wizard casts black magic spells which are drawn from the wizard spell list. A wizard must choose and prepare her spells ahead of time (see below). 
+To learn, prepare, or cast a spell, the wizard must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a wizard’s spell is 10 + the spell level + the wizard’s Intelligence modifier. 
+Like other spellcasters, a wizard can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on Table: The Wizard. In addition, she receives bonus spells per day if she has a high Intelligence score. 
+Unlike an archer or alchemist, a wizard may know any number of spells. She must choose and prepare her spells ahead of time by getting a good night’s sleep and spending 1 hour studying her spellbook. While studying, the wizard decides which spells to prepare. 
+Scribe Scroll: At 1st level, a wizard gains Scribe Scroll as a bonus feat. 
+Bonus Feats: At 5th, 10th, 15th, and 20th level, a wizard gains a bonus feat. At each such opportunity, she can choose an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums. 
+These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of item creation feats, metamagic feats, or Spell Mastery when choosing these feats. 
+Spellbooks: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for read magic, which all wizards can prepare from memory. 
+A wizard begins play with a spellbook containing all 0-level wizard spells plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own. 
+
+ARCANE SPELLS AND ARMOR 
+Wizards, priests and alchemists do not know how to wear armor effectively. 
+If desired, they can wear armor anyway (though they’ll be clumsy in it), or they can gain training in the proper use of armor (with the various Armor Proficiency feats—light, medium, and heavy—and the Shield Proficiency feat), or they can multiclass to add a class that grants them armor proficiency. Even if a wizard or alchemist is wearing armor with which he or she is proficient, however, it might still interfere with spellcasting. 
+Armor restricts the complicated gestures that a wizard or alchemist must make while casting any spell that has a somatic component (most do). The armor and shield descriptions list the spell failure chance for different armors and shields. 
+By contrast, archers not only know how to wear light armor effectively, but they can also ignore the spell failure chance for such armor. An archer wearing armor heavier than light or using any type of shield incurs the normal spell failure chance, even if he becomes proficient with that armor. 
+If a spell doesn’t have a somatic component, a spellcaster can cast it with no problem while wearing armor. Such spells can also be cast even if the caster’s hands are bound or if he or she is grappling (although Concentration checks still apply normally). 
+
+MULTICLASS CHARACTERS 
+A character may add new classes as he or she progresses in level, thus becoming a multiclass character. The class abilities from a character’s different classes combine to determine a multiclass character’s overall abilities. Multiclassing improves a character’s versatility at the expense of focus. 
+
+CLASS AND LEVEL FEATURES 
+As a general rule, the abilities of a multiclass character are the sum of the abilities of each of the character’s classes. 
+Level: “Character level” is a character’s total number of levels. It is used to determine when feats and ability score boosts are gained. 
+“Class level” is a character’s level in a particular class. For a character whose levels are all in the same class, character level and class level are the same. 
+Hit Points: A character gains hit points from each class as his or her class level increases, adding the new hit points to the previous total. 
+Base Attack Bonus: Add the base attack bonuses acquired for each class to get the character’s base attack bonus. A resulting value of +6 or higher provides the character with multiple attacks. 
+Saving Throws: Add the base save bonuses for each class together. 
+Skills: If a skill is a class skill for any of a multiclass character’s classes, then character level determines a skill’s maximum rank. (The maximum rank for a class skill is 3 + character level.) 
+If a skill is not a class skill for any of a multiclass character’s classes, the maximum rank for that skill is one-half the maximum for a class skill. 
+Class Features: A multiclass character gets all the class features of all his or her classes but must also suffer the consequences of the special restrictions of all his or her classes. (Exception: A character who acquires the barbarian class does not become illiterate.) 
+In the special case of turning undead, both clerics and experienced paladins have the same ability. If the character’s paladin level is 4th or higher, her effective turning level is her cleric level plus her paladin level minus 3. 
+In the special case of uncanny dodge, both experienced barbarians and experienced rogues have the same ability. When a barbarian/rogue would gain uncanny dodge a second time (for her second class), she instead gains improved uncanny dodge, if she does not already have it. Her barbarian and rogue levels stack to determine the rogue level an attacker needs to flank her. 
+In the special case of obtaining a familiar, both wizards and sorcerers have the same ability. A sorcerer/wizard stacks his sorcerer and wizard levels to determine the familiar’s natural armor, Intelligence score, and special abilities. 
+Feats: A multiclass character gains feats based on character levels, regardless of individual class level 
+Ability Increases: A multiclass character gains ability score increases based on character level, regardless of individual class level. 
+Spells: The character gains spells from all of his or her spellcasting classes and keeps a separate spell list for each class. If a spell’s effect is based on the class level of the caster, the player must keep track of which class’s spell list the character is casting the spell from.

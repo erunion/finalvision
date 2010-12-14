@@ -1,0 +1,165 @@
+﻿This material is Open Game Content, and is licensed for public use under the terms of the Open Game License v1.0a. 
+SPELL LIST I 
+
+Order of Presentation: In the spell lists and the spell descriptions that follow them, the spells are presented in alphabetical order by name except for those belonging to certain spell chains. 
+When a spell’s name begins with “lesser,” “greater,” or “mass,” the spell description is alphabetized under the second word of the spell name instead. 
+Hit Dice: The term “Hit Dice” is used synonymously with “character levels” for effects that affect a number of Hit Dice of creatures. Creatures with Hit Dice only from their race, not from classes, have character levels equal to their Hit Dice. 
+Caster Level: A spell’s power often depends on caster level, which is defined as the caster’s class level for the purpose of casting a particular spell. A creature with no classes has a caster level equal to its Hit Dice unless otherwise specified. The word “level” in the spell lists that follow always refers to caster level. 
+Creatures and Characters: The words “creature” and “character” are used synonymously in the spell descriptions. 
+
+PRIEST SPELLS 
+0-LEVEL PRIEST SPELLS (WHITE MAGIC) 
+Read Magic: Decipher magical inscriptions. 
+Cure: Heal 1d4 +1/level (max 5) HP. 
+Scan: Discern alignment and related information about a creature, or magical object. 
+Shield: Gain +1 to AC from physical attacks for 1 round/level (max 5). 
+1ST-LEVEL PRIEST SPELLS 
+Esuna: Remove abnormal status effects. 
+Shell: Gain +1 to AC from magical attacks for 1 round/level (max 5). 
+Nulblaze: Gain damage reduction of 1/level (max 5) from fire and heat. 
+Nulice: Gain damage reduction of 1/level (max 5) from ice and cold. 
+2ND-LEVEL PRIEST SPELLS 
+Revive: A character with 0 or less HP becomes conscious, stable and gains 1 HP/level (max total HP of 1). 
+Slow: Reduce a creature's speed by 1d6 feet for 1 round/level (max 5), OR reduce a creature's initiative by 1d4. 
+Nulshock: Gain damage reduction of 1/level (max 5) from electricity. 
+Nultide: Gain damage reduction of 1/level (max 5) from water. 
+3RD-LEVEL PRIEST SPELLS 
+Cura: Heal 1d6 +1/level (max 5) HP. 
+Silence: Prevent a character from casting any spells for 1d4+1 rounds. 
+Haste: Increase a creature's speed by 1d6 feet for 1 round/level (max 5), OR increase a creature's initiative by 1d4. 
+Nulwind: Gain damage reduction of 1/level (max 5) from wind. 
+4TH-LEVEL PRIEST SPELLS 
+Basuna: Remove abnormal status effects and reverse the affects of temporary energy drain/damage. 
+Sleep: Cause a character to sleep in the position they are in. 
+Berserk: A character becomes so enraged that it can only attack on its turn. 
+Protect: Gain 1d4 to AC from physical attacks for 1 round/level (max 5) 
+5TH-LEVEL PRIEST SPELLS 
+Life: A character with 0 or less HP becomes conscious, stable and gains 1d6 +1/level (max 5) HP. 
+Exit: Teleport up to 7 medium sized creatures and yourself to the entrance of any cavern or building. 
+Frog: Polymorph any character into a frog, or reverse the effects of a frog spell. 
+Reflect: A spell is reflected back in the direction it was cast from. 
+6TH-LEVEL PRIEST SPELLS 
+Regen: Gain continuous magical healing of 1d4 HP per round each round for 1 round/level (max 8). 
+Slowga: Same as slow, but in mass. 
+Blink: Disappear and reappear randomly for 1d4+1 rounds. 
+Float: Hover over the ground. 
+7TH-LEVEL PRIEST SPELLS 
+Curaga: Heal 1d8 +1/level (max 5) HP. 
+Hastaga: Same as haste, but in mass. 
+Mini: Shrink a medium sized creature 3 sizes. 
+Warp: Teleport up to 7 medium sized creatures and yourself to a preset location. 
+8TH-LEVEL PRIEST SPELLS 
+Full Life: A character 0 or less HP becomes conscious, stable and gains 1d8 +1/level (max 5) HP. 
+Mighty Guard: Gain the effects of Haste, shield, shell, and any 1 spell with Nul~ in the name. 
+9TH-LEVEL PRIEST SPELLS 
+Holy: Call down holy light from heaven dealing 2d8 damage. 
+
+WIZARD SPELLS 
+0-LEVEL WIZARD SPELLS (BLACK MAGIC) 
+Read Magic: Decipher magical inscriptions. 
+Fire: Release a fireball from your hand and deal 1d4 +1/level (max 5) fire damage. 
+Blizzard: Shoot an icicle from your hand and deal 1d4 +1/level (max 5) ice damage. 
+Confuse: A creature will perform random actions or attack random other creatures. 
+1ST-LEVEL WIZARD SPELLS 
+Thunder: Release a thunderbolt from your hand and deal 1d6 +1/level (max 5) lightning damage. 
+Water: Shoot a spout of water from your hand and deal 1d6 +1/level (max 5) water damage. 
+Quake: Pound the ground to start the quake. It affects an area 15 ft. square. The first square deals 2d4 earth damage. and the damage goes down for every 5 ft. away dealing 1d6, then 1d4. 
+Darkness: A character is blinded for 1d4 +1/level (max 5) rounds. 
+2ND-LEVEL WIZARD SPELLS 
+Aero: Call up a wind that fills a 10 ft. area that deals 2d4 +1/level (max 5) wind damage. 
+Fira: Call down a fireball that deals 2d4 +1/level (max 5) fire damage to the target and 1d4 heat damage to anyone within 5 ft. 
+Bio: Touch an enemy to fill them with a poison dealing 1d4+1 poison damage for 1 +1/level (max 5) rounds. 
+Petrify: Your gaze turns a creature into stone. 
+3RD-LEVEL WIZARD SPELLS 
+Blizzara: Call up a snowstorm that deals 2d4 +1/level (max 6) ice damage to the target and 1d4+1 cold damage to anyone within 5 ft. 
+Thundara: Call down lightning that deals 2d6 +1/level (max 8) lightning damage to a 10 ft square. 
+Freeze: Call down lightning that deals 2d6 +1/level (max 8) lightning damage to a 10 ft square. 
+Zombie: Change a creature into undead. 
+4TH-LEVEL WIZARD SPELLS 
+Watera: Shoot a rush of water that deals 2d8+1/level (max 8) water damage to a 15 ft square. 
+Aerora: Call up a wind that fills a 15 ft area that deals 2d8+1/level (max 8) wind damage. 
+Bioga: Inflict an enemy, within 15 ft, with a poison dealing 2d8+1/level poison damage for 2 +1/level (max 8) rounds. 
+Frog: Polymorph any character into a frog, or reverse the effects of a frog spell. 
+5TH-LEVEL WIZARD SPELLS 
+Firaga: Call down a fireball that deals 3d6+1/level (max 10) fire damage to the target and 2d4+1/level heat damage to anyone within 15 ft. 
+Blizzaga: Call up a snowstorm that deals 3d4+1/level (max 10) ice damage to the target and 2d4+1/level cold damage to anyone within 15 ft. 
+Tornado: Call up a tornado that travels from you in any direcion. Lasts 1d6 +1/level (max 8) rounds. 
+DeBarrier: Dispel a protective barrier. 
+6TH-LEVEL WIZARD SPELLS 
+Thundaga: Call down lightning that deals 3d6+1/level (max 12) lightning damage to a 20 ft square. 
+Waterga: Fire a giant sphere of water that deals 3d6+1/level (max 12) water damage to a 20 ft square. 
+Death: Cause a creature to die (HP = -10) 
+Drain: Drain 1d4 +1/level (max 8) HP from a creature. 
+7TH-LEVEL WIZARD SPELLS 
+Aeroga: Call up a powerful wind that deals 3d8+1/level (max 14) wind damage to a 25 ft square. 
+Nuke: 
+Flare: 
+Osmose: Drain 1 ability point from a creature. 
+8TH-LEVEL WIZARD SPELLS 
+Demi: 
+Meteor: 
+Doom: Cause a creature to die (HP= -10) 
+9TH-LEVEL WIZARD SPELLS 
+Ultima: 
+Dark Flare: 
+
+SUMMONER SPELLS 
+0-LEVEL SUMMONER SPELLS (RED MAGIC) 
+Read Magic: Decipher magical inscriptions. 
+Scan: Discern alignment and related information about a creature, or magical object. 
+Draw Summon: Allows you to add a Greater Ally's spirit to your summon list. 
+1ST-LEVEL SUMMONER SPELLS 
+Charm Animal: Reduces the aggression of a wild animal, OR charms an animal to follow you and obey simple commands. 
+Summon Greater Ally I: Allows you to summon your first Greater Ally from your summon list. 
+2ND-LEVEL SUMMONER SPELLS 
+Summon Nature’s Ally II: Allows you to summon your second Greater Ally from your summon list. 
+Summon Swarm: Commands all nearby insects to swarm into the directed area. 
+3RD-LEVEL SUMMONER SPELLS 
+Summon Nature’s Ally III: Allows you to summon your third Greater Ally from your summon list. 
+4TH-LEVEL SUMMONER SPELLS 
+Repel Vermin: Causes all small animals to flee from you in fear. 
+Summon Nature’s Ally IV: Allows you to summon your fourth Greater Ally from your summon list. 
+5TH-LEVEL SUMMONER SPELLS 
+Insect Plague: Commands all nearby insects to directly attack a target until killed or dispersed. 
+Summon Nature’s Ally V: Allows you to summon your fifth Greater Ally from your summon list. 
+6TH-LEVEL SUMMONER SPELLS 
+Summon Nature’s Ally VI: Allows you to summon your sixth Greater Ally from your summon list. 
+7TH-LEVEL SUMMONER SPELLS 
+Creeping Doom: Causes vines to grow out of the earth and entrap a target. They will attempt to inflict damage as well. 
+Summon Nature’s Ally VII: Allows you to summon your seventh Greater Ally from your summon list. 
+8TH-LEVEL SUMMONER SPELLS 
+Control Plants: 
+Summon Nature’s Ally VIII: Allows you to summon your eighth Greater Ally from your summon list. 
+9TH-LEVEL SUMMONER SPELLS 
+Elemental Swarm: 
+Summon Nature’s Ally IX: Allows you to summon your ninth Greater Ally from your summon list. 
+
+Moogle: 
+Ifrit: 
+Shiva: 
+Ramuh: 
+Leviathan: 
+Titan: 
+Golem: 
+Carbunkle: 
+Bahamut: 
+Pheonix: 
+Maduin: 
+Odin: 
+Kujata: 
+Alexander: 
+Hades: 
+Typhoon: 
+Kirin: 
+Siren: 
+Stray: 
+Unicorn: 
+Shoat: 
+Bismark: 
+Zoneseek: 
+Straphim: 
+Palidor: 
+Tritoch: 
+Ragnarok: 
+Raiden: 
+Cactuar:
